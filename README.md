@@ -1,2 +1,5 @@
-# Skript-Anti-Player-Kill
-fiveguard.net is best paid FiveM Anticheat providing unique features such as Anti Aimbot, Objects-AI detection, Cheats-AI detection, Safe-Events and many more. This product is developed to eliminate cheats and at the same time provide smooth gaming experience!
+# Anti fold / edging
+Script made to prevent a kill player function from FiveM hacks that makes other players this 
+# Still Testing
+
+https://discord.gg/fiveguard for best anticheat with detection for every executor
