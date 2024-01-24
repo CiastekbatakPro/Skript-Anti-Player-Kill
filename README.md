@@ -1,4 +1,4 @@
-# Anti fold / edging
+# Anti kill
 Script made to prevent a kill player function from FiveM hacks that makes other players this 
 # Still Testing
 
